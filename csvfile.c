@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//Creation of CSV file
+
 int main()
 {
     float x, y, z;
