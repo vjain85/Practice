@@ -11,7 +11,7 @@ int main()
 
 
     FILE *fp;
-    fp = fopen("file1.txt","w");
+    fp = fopen("file1.csv","w");
     fprintf(fp,"S.no.,x,y,z\n");
     for(i = 0; i < 100; i++)
     {
